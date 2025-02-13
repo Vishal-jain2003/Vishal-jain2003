@@ -20,6 +20,8 @@
 
 🔹 [**HealthSaverAI**](#) -([https://github.com/Vishal-jain2003/HealthSaver_AI]) A Python-based App.  
 
+   [Movie_Genre_Analyzer](#) -([https://moviegenreanalyzerjainai.streamlit.app/])  Using ML Algos to Predict Movie Genres
+
 ## 📊 GitHub Stats  
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-jain2003&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-jain2003&layout=compact&theme=radical)  
