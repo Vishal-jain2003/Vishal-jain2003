@@ -33,10 +33,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jain_Vishalvj/)
 
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vishalvj221)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vishalvj221) 
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vishal2k54/)  
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vishal_jain12345)  
-[![Codolio](https://img.shields.io/badge/Codolio-FF5722?style=for-the-badge&logo=code&logoColor=white)](https://www.codolio.com/JainVishal)  
+
+
 
 
 
@@ -44,5 +47,5 @@
 ([])  
 💡 *"Code. Learn. Innovate."* 🚀  
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I have a joke on recursion… But first, let me tell you a joke on recursion! 🤯
 -->
