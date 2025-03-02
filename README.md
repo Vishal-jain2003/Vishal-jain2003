@@ -72,4 +72,4 @@ Other: REST APIs, Competitive Programming, Data Structures & Algorithms
 
 ---
 
-💡 *"Code. Learn. Innovate."* 🚀
+💡 *"Code. Learn. Discover Innovate."* 🚀
