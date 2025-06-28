@@ -31,10 +31,15 @@ Other: REST APIs, Competitive Programming, Data Structures & Algorithms
 
 ### 📌 Featured Projects  
 🍽️ **[PetPooja AI](https://petpooja-ai.vercel.app)** - AI-Powered Food Ordering Platform with Recipe & Meal Planner.
+
 🧠 **[AI_DSA_TRACKER](https://ai-dsa-tracker.vercel.app/)** - Track DSA Progress with AI Assistance  
-🗨️ **[ChatRoom](https://chatroom-eight-alpha.vercel.app/)** - Real-time Chat App using React, Spring Boot WebSocket & MongoDB. 
+
+🗨️ **[ChatRoom](https://chatroom-eight-alpha.vercel.app/)** - Real-time Chat App using React, Spring Boot WebSocket & MongoDB.
+
 🚀 **[VMailAI](https://vmailai.netlify.app)** - Generate Email Reply in Seconds.  
+
 💡 **[HealthSaverAI](https://github.com/Vishal-jain2003/HealthSaver_AI)** - A Python-based App.  
+
 🎬 **[Movie Genre Analyzer](https://moviegenreanalyzerjainai.streamlit.app/)** - Using ML to Predict Movie Genres.  
  
 
