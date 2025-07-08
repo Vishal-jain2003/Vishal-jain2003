@@ -30,7 +30,7 @@ Other: REST APIs, Competitive Programming, Data Structures & Algorithms
 ---
 
 ### 📌 Featured Projects  
-🍽️ **[PetPooja AI](https://petpooja-ai.vercel.app)** - AI-Powered Food Ordering Platform with Recipe & Meal Planner.
+
 
 🧠 **[AI_DSA_TRACKER](https://ai-dsa-tracker.vercel.app/)** - Track DSA Progress with AI Assistance  
 
