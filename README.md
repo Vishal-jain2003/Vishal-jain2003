@@ -20,9 +20,9 @@
 ### 🛠️ Technologies & Skills
 ```yaml
 Languages: Java, Python, JavaScript, C
-Backend: Spring Boot, Node.js
+Backend: Spring Boot
 Frontend: HTML, CSS, JavaScript, React
-Database: MySQL, MongoDB
+Database: MySQL, MongoDB, Oracle
 Machine Learning: NumPy, Pandas, Scikit-learn
 Other: REST APIs, Competitive Programming, Data Structures & Algorithms
 ```
