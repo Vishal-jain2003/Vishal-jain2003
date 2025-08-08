@@ -65,7 +65,7 @@ Other: REST APIs, Competitive Programming, Data Structures & Algorithms
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-jain-754a33254/">
+  <a href="https://www.linkedin.com/in/vishaljain493">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/jain_Vishalvj/">
@@ -80,7 +80,14 @@ Other: REST APIs, Competitive Programming, Data Structures & Algorithms
   <a href="https://www.hackerrank.com/vishal_jain12345">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
+  <a href="https://www.codechef.com/users/jainvishal001">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/JainVishal">
+    <img src="https://img.shields.io/badge/Codolio-FF5733?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
